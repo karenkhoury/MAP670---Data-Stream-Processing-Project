@@ -21,6 +21,7 @@ using batch models from sklearn.
 
 ## Load the 'archive.csv' file
 df = pd.read_csv('archive.csv', sep=';')
+df.drop_duplicates()
 ## Load X and y
 X = df[['Tweet', 'Language']]
 y = df['Sentiment']

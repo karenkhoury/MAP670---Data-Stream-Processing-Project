@@ -2,7 +2,7 @@
 
 ## Authors
 
-AL SHAAR Abed EL Kader, KHALIFE Ahmed and KHOURY Karen
+EL SHAAR Abed EL Kader, KHALIFE Ahmed and KHOURY Karen
 
 ## Description
 
