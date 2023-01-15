@@ -16,7 +16,8 @@ Twitter introduced a new API (API V2/ Essential Access) which gives access to th
 > **Warning**
 > Each script must be run in a different terminal window
 
-- Clone the repository with: `git clone https://github.com/karenkhoury/MAP670---Data-Stream-Processing-Project`
+- Clone the repository with:
+ ```git clone https://github.com/karenkhoury/MAP670---Data-Stream-Processing-Project```
 - Install requirements with: `pip install -r requirements.txt`
 - Start Zookeeper server in Apache Kafka with: `bin/zookeeper-server-start.sh config/zookeeper.properties`
 - Start Kafka server with: `bin/kafka-server-start.sh config/server.properties`
