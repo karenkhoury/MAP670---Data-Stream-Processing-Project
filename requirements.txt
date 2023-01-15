@@ -1,0 +1,8 @@
+kafka-python
+tweepy
+river
+scikit-learn
+pandas
+numpy
+nltk
+datetime
