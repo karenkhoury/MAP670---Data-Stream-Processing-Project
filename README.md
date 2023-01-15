@@ -14,7 +14,7 @@ Twitter introduced a new API (API V2/ Essential Access) which gives access to th
 
 ### Executing the project
 > **Warning**
-> Each script must be run in a separate console
+> Each script must be run in a different terminal window
 
 - Clone the repository with: `git clone `
 - Install requirements with: `pip install -r requirements.txt`
