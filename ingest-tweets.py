@@ -14,8 +14,7 @@ import json
 import time
 from kafka import KafkaProducer
 '''
-In this script, we filter the tweets from the 'raw-tweets' topic into 'en-tweets' and 'fr-tweets' topics 
-according to the tweets language.
+In this script, we stream the tweets using the Twiiter API and write them into the 'raw-tweets' topic.
 '''
 producer = KafkaProducer(bootstrap_servers="localhost:9092")
 topic_name = "raw-tweets"
